@@ -19,7 +19,7 @@ while true; do
     echo "          |    | "
     echo "          |____| "
     echo " "
-    echo "      Mery Christmas"
+    echo "      Merry Christmas"
     sleep 1
     clear
 
@@ -38,7 +38,7 @@ while true; do
     echo "          |    | "
     echo "          |____| "
     echo " "
-    echo "      Mery Christmas"
+    echo "      Merry Christmas"
     sleep 1
     clear
 
@@ -57,7 +57,7 @@ while true; do
     echo "          |    | "
     echo "          |____| "
     echo " "
-    echo "      Mery Christmas"
+    echo "      Merry Christmas"
     sleep 1
     clear
 
@@ -76,7 +76,7 @@ while true; do
     echo "          |    | "
     echo "          |____| "
     echo " "
-    echo "      Mery Christmas"
+    echo "      Merry Christmas"
     sleep 1
     clear
 done
